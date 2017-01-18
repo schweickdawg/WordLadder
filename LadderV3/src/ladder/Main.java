@@ -18,7 +18,7 @@ import java.util.ArrayList;
  *
  */
 public class Main {
-
+    //Bring me a shrubbery
     static int lastColChanged=0;
     static int workingArrayCounter=0;
     static int previousWordsCount=0;
